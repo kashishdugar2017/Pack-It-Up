@@ -6,7 +6,7 @@ A visual packing simulator to plan what you are going to pack without clothes ly
 
   - 46 photos of my own stuff
   - Click an item. Click a organizer. - Packed!!
-  - Click a orginizer.Click a bag. - Packed!
+  - Click a organizer. Click a bag. - Packed!
   - Live packing list in center
 
 ## Run it
